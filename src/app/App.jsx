@@ -5,7 +5,8 @@ import { MatxTheme } from "./components";
 // ALL CONTEXTS
 // import { AuthProvider } from "./contexts/Auth0Context";
 // import { AuthProvider } from "./contexts/JWTAuthContext";
-import { AuthProvider } from "./contexts/FirebaseAuthContext";
+// import { AuthProvider } from "./contexts/FirebaseAuthContext";
+import { AuthProvider } from "./contexts/JWTAuthContext";
 import SettingsProvider from "./contexts/SettingsContext";
 // ROUTES
 import routes from "./routes";

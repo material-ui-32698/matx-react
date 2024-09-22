@@ -1,5 +1,6 @@
 export const navigations = [
   { name: "Dashboard", path: "/dashboard/default", icon: "dashboard" },
+
   { label: "PAGES", type: "label" },
   {
     name: "Session/Auth",
@@ -11,6 +12,15 @@ export const navigations = [
       { name: "Error", iconText: "404", path: "/session/404" }
     ]
   },
+  {
+    name: "Account Management",
+    icon: "account_box",
+    children: [
+      { name: "Account Type", iconText: "AT", path: "/account-management/account-type" },
+      { name: "Account List", iconText: "AL", path: "/account-management/account-list" }
+    ]
+  },
+
   { label: "Components", type: "label" },
   {
     name: "Components",

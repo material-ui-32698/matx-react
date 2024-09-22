@@ -9,6 +9,7 @@ import MatxLayout from "./components/MatxLayout/MatxLayout";
 
 import sessionRoutes from "./views/sessions/session-routes";
 import materialRoutes from "app/views/material-kit/MaterialRoutes";
+import accountManagementRoutes from "./views/account-management/account-management-routes";
 
 // E-CHART PAGE
 const AppEchart = Loadable(lazy(() => import("app/views/charts/echarts/AppEchart")));
@@ -34,6 +35,8 @@ const routes = [
         element: <Analytics />,
         auth: authRoles.admin
       },
+      // account management pages route
+      ...accountManagementRoutes,
       // e-chart route
       {
         path: "/charts/echarts",
