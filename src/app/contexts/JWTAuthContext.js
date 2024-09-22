@@ -2,6 +2,7 @@ import { createContext, useEffect, useReducer } from "react";
 import axios from "axios";
 // CUSTOM COMPONENT
 import { MatxLoading } from "app/components";
+import {BASE_SERVICE_URL} from "../utils/constant";
 
 const initialState = {
   user: null,
@@ -47,7 +48,7 @@ export const AuthProvider = ({ children }) => {
   const [state, dispatch] = useReducer(reducer, initialState);
 
   const login = async (email, password) => {
-    const response = await axios.post("/api/auth/login", { email, password });
+    const response = await axios.post(`${BASE_SERVICE_URL}/api/auth/login`, { email, password });
     const { user } = response.data;
 
     dispatch({ type: "LOGIN", payload: { user } });

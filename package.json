@@ -2,6 +2,7 @@
   "name": "matx-react",
   "version": "4.0.0",
   "private": true,
+  "homepage": "http://localhost:8080/matx-react-v4/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

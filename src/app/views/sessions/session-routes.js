@@ -1,5 +1,6 @@
 import { lazy } from "react";
 import Loadable from "app/components/Loadable";
+import {Navigate} from "react-router-dom";
 
 const NotFound = Loadable(lazy(() => import("./NotFound")));
 const ForgotPassword = Loadable(lazy(() => import("./ForgotPassword")));
@@ -16,6 +17,7 @@ const sessionRoutes = [
   { path: "/session/signup", element: <JwtRegister /> },
   { path: "/session/signin", element: <JwtLogin /> },
   { path: "/session/forgot-password", element: <ForgotPassword /> },
+  // { path: "*", element: <Navigate to="/session/signin" /> },
   { path: "*", element: <NotFound /> }
 ];
 
