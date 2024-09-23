@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/matx-react/static/css/main.81181532.css",
-    "main.js": "/matx-react/static/js/main.3a205457.js",
+    "main.js": "/matx-react/static/js/main.eb1f7697.js",
     "static/js/147.88abb326.chunk.js": "/matx-react/static/js/147.88abb326.chunk.js",
     "static/js/938.91869bf6.chunk.js": "/matx-react/static/js/938.91869bf6.chunk.js",
     "static/js/832.6dfa0bc9.chunk.js": "/matx-react/static/js/832.6dfa0bc9.chunk.js",
     "static/js/128.27ba047a.chunk.js": "/matx-react/static/js/128.27ba047a.chunk.js",
     "static/js/783.ebd2ccf6.chunk.js": "/matx-react/static/js/783.ebd2ccf6.chunk.js",
-    "static/js/929.d9273805.chunk.js": "/matx-react/static/js/929.d9273805.chunk.js",
+    "static/js/929.8b96c901.chunk.js": "/matx-react/static/js/929.8b96c901.chunk.js",
     "static/js/411.123dd2f8.chunk.js": "/matx-react/static/js/411.123dd2f8.chunk.js",
     "static/js/636.807a7cea.chunk.js": "/matx-react/static/js/636.807a7cea.chunk.js",
     "static/js/402.cecd04e4.chunk.js": "/matx-react/static/js/402.cecd04e4.chunk.js",
@@ -45,13 +45,13 @@
     "static/media/axios.cjs": "/matx-react/static/media/axios.5cdcf59e4b6a285aeb16.cjs",
     "index.html": "/matx-react/index.html",
     "main.81181532.css.map": "/matx-react/static/css/main.81181532.css.map",
-    "main.3a205457.js.map": "/matx-react/static/js/main.3a205457.js.map",
+    "main.eb1f7697.js.map": "/matx-react/static/js/main.eb1f7697.js.map",
     "147.88abb326.chunk.js.map": "/matx-react/static/js/147.88abb326.chunk.js.map",
     "938.91869bf6.chunk.js.map": "/matx-react/static/js/938.91869bf6.chunk.js.map",
     "832.6dfa0bc9.chunk.js.map": "/matx-react/static/js/832.6dfa0bc9.chunk.js.map",
     "128.27ba047a.chunk.js.map": "/matx-react/static/js/128.27ba047a.chunk.js.map",
     "783.ebd2ccf6.chunk.js.map": "/matx-react/static/js/783.ebd2ccf6.chunk.js.map",
-    "929.d9273805.chunk.js.map": "/matx-react/static/js/929.d9273805.chunk.js.map",
+    "929.8b96c901.chunk.js.map": "/matx-react/static/js/929.8b96c901.chunk.js.map",
     "411.123dd2f8.chunk.js.map": "/matx-react/static/js/411.123dd2f8.chunk.js.map",
     "636.807a7cea.chunk.js.map": "/matx-react/static/js/636.807a7cea.chunk.js.map",
     "402.cecd04e4.chunk.js.map": "/matx-react/static/js/402.cecd04e4.chunk.js.map",
@@ -89,6 +89,6 @@
   },
   "entrypoints": [
     "static/css/main.81181532.css",
-    "static/js/main.3a205457.js"
+    "static/js/main.eb1f7697.js"
   ]
 }
