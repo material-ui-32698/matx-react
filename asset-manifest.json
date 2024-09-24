@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "E:/WORKSPACE/01.personal-projects/github-projects/material-ui-32698/matx-react/public/static/css/main.81181532.css",
-    "main.js": "E:/WORKSPACE/01.personal-projects/github-projects/material-ui-32698/matx-react/public/static/js/main.fff299ea.js",
+    "main.js": "E:/WORKSPACE/01.personal-projects/github-projects/material-ui-32698/matx-react/public/static/js/main.5871bd7a.js",
     "static/js/147.88abb326.chunk.js": "E:/WORKSPACE/01.personal-projects/github-projects/material-ui-32698/matx-react/public/static/js/147.88abb326.chunk.js",
     "static/js/938.91869bf6.chunk.js": "E:/WORKSPACE/01.personal-projects/github-projects/material-ui-32698/matx-react/public/static/js/938.91869bf6.chunk.js",
     "static/js/832.6dfa0bc9.chunk.js": "E:/WORKSPACE/01.personal-projects/github-projects/material-ui-32698/matx-react/public/static/js/832.6dfa0bc9.chunk.js",
     "static/js/128.27ba047a.chunk.js": "E:/WORKSPACE/01.personal-projects/github-projects/material-ui-32698/matx-react/public/static/js/128.27ba047a.chunk.js",
     "static/js/783.ebd2ccf6.chunk.js": "E:/WORKSPACE/01.personal-projects/github-projects/material-ui-32698/matx-react/public/static/js/783.ebd2ccf6.chunk.js",
-    "static/js/747.f7ce72c6.chunk.js": "E:/WORKSPACE/01.personal-projects/github-projects/material-ui-32698/matx-react/public/static/js/747.f7ce72c6.chunk.js",
+    "static/js/929.d9273805.chunk.js": "E:/WORKSPACE/01.personal-projects/github-projects/material-ui-32698/matx-react/public/static/js/929.d9273805.chunk.js",
     "static/js/411.123dd2f8.chunk.js": "E:/WORKSPACE/01.personal-projects/github-projects/material-ui-32698/matx-react/public/static/js/411.123dd2f8.chunk.js",
     "static/js/636.807a7cea.chunk.js": "E:/WORKSPACE/01.personal-projects/github-projects/material-ui-32698/matx-react/public/static/js/636.807a7cea.chunk.js",
     "static/js/402.cecd04e4.chunk.js": "E:/WORKSPACE/01.personal-projects/github-projects/material-ui-32698/matx-react/public/static/js/402.cecd04e4.chunk.js",
@@ -42,17 +42,16 @@
     "static/js/24.c087a7b2.chunk.js": "E:/WORKSPACE/01.personal-projects/github-projects/material-ui-32698/matx-react/public/static/js/24.c087a7b2.chunk.js",
     "static/js/552.193d1933.chunk.js": "E:/WORKSPACE/01.personal-projects/github-projects/material-ui-32698/matx-react/public/static/js/552.193d1933.chunk.js",
     "static/js/624.e69ae633.chunk.js": "E:/WORKSPACE/01.personal-projects/github-projects/material-ui-32698/matx-react/public/static/js/624.e69ae633.chunk.js",
-    "static/media/dreamer.svg": "E:/WORKSPACE/01.personal-projects/github-projects/material-ui-32698/matx-react/public/static/media/dreamer.b787ed08356dba904dc9bc03f344a6bf.svg",
     "static/media/axios.cjs": "E:/WORKSPACE/01.personal-projects/github-projects/material-ui-32698/matx-react/public/static/media/axios.5cdcf59e4b6a285aeb16.cjs",
     "index.html": "E:/WORKSPACE/01.personal-projects/github-projects/material-ui-32698/matx-react/public/index.html",
     "main.81181532.css.map": "E:/WORKSPACE/01.personal-projects/github-projects/material-ui-32698/matx-react/public/static/css/main.81181532.css.map",
-    "main.fff299ea.js.map": "E:/WORKSPACE/01.personal-projects/github-projects/material-ui-32698/matx-react/public/static/js/main.fff299ea.js.map",
+    "main.5871bd7a.js.map": "E:/WORKSPACE/01.personal-projects/github-projects/material-ui-32698/matx-react/public/static/js/main.5871bd7a.js.map",
     "147.88abb326.chunk.js.map": "E:/WORKSPACE/01.personal-projects/github-projects/material-ui-32698/matx-react/public/static/js/147.88abb326.chunk.js.map",
     "938.91869bf6.chunk.js.map": "E:/WORKSPACE/01.personal-projects/github-projects/material-ui-32698/matx-react/public/static/js/938.91869bf6.chunk.js.map",
     "832.6dfa0bc9.chunk.js.map": "E:/WORKSPACE/01.personal-projects/github-projects/material-ui-32698/matx-react/public/static/js/832.6dfa0bc9.chunk.js.map",
     "128.27ba047a.chunk.js.map": "E:/WORKSPACE/01.personal-projects/github-projects/material-ui-32698/matx-react/public/static/js/128.27ba047a.chunk.js.map",
     "783.ebd2ccf6.chunk.js.map": "E:/WORKSPACE/01.personal-projects/github-projects/material-ui-32698/matx-react/public/static/js/783.ebd2ccf6.chunk.js.map",
-    "747.f7ce72c6.chunk.js.map": "E:/WORKSPACE/01.personal-projects/github-projects/material-ui-32698/matx-react/public/static/js/747.f7ce72c6.chunk.js.map",
+    "929.d9273805.chunk.js.map": "E:/WORKSPACE/01.personal-projects/github-projects/material-ui-32698/matx-react/public/static/js/929.d9273805.chunk.js.map",
     "411.123dd2f8.chunk.js.map": "E:/WORKSPACE/01.personal-projects/github-projects/material-ui-32698/matx-react/public/static/js/411.123dd2f8.chunk.js.map",
     "636.807a7cea.chunk.js.map": "E:/WORKSPACE/01.personal-projects/github-projects/material-ui-32698/matx-react/public/static/js/636.807a7cea.chunk.js.map",
     "402.cecd04e4.chunk.js.map": "E:/WORKSPACE/01.personal-projects/github-projects/material-ui-32698/matx-react/public/static/js/402.cecd04e4.chunk.js.map",
@@ -90,6 +89,6 @@
   },
   "entrypoints": [
     "static/css/main.81181532.css",
-    "static/js/main.fff299ea.js"
+    "static/js/main.5871bd7a.js"
   ]
 }
